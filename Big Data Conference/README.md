@@ -39,16 +39,11 @@
 ## 📊 EDA(탐색적 데이터 분석)
 ![image](https://github.com/heegu0513/project/assets/100845169/17a46e20-1384-4cd4-bcb6-0d3e31de1b90)![image](https://github.com/heegu0513/project/assets/100845169/5ee3567a-d3b2-48ed-b27c-08eb43e7ed76)<br>
 • 누적 휴일에 따른 총 승객수 → 휴일이 겹칠수록 승하차 수 감소 양상을 보였습니다.<br><br>
-<br>
 • 한파/폭염 여부에 따른 총 승객수 → 승하차 수가 날씨의 영향을 받는다는 것을 확인할 수 있었습니다.<br><br>
 <br>
-![image](https://github.com/heegu0513/project/assets/100845169/2932e8b0-69c3-4c3c-9018-1dd1afde6c18)<br>
+![image](https://github.com/heegu0513/project/assets/100845169/2932e8b0-69c3-4c3c-9018-1dd1afde6c18)![image](https://github.com/heegu0513/project/assets/100845169/07612fae-6830-4cb0-90e0-716f85e2eb25)![image](https://github.com/heegu0513/project/assets/100845169/a27c5753-6280-48cd-8e60-6ee7a4f67dc3)<br>
 • 상업지역의 시간대별 승하차수 → 시간대별 특징이 두드러지지 않고, 골고루 유동인구가 분포되어 있었습니다.<br><br>
-<br>
-![image](https://github.com/heegu0513/project/assets/100845169/07612fae-6830-4cb0-90e0-716f85e2eb25)<br>
 • 주거지역의 시간대별 승하차수 → 주거지역에서는 오전에는 승차가, 오후에는 하차가 많은 것을 확인할 수 있었습니다.<br><br>
-<br>
-![image](https://github.com/heegu0513/project/assets/100845169/a27c5753-6280-48cd-8e60-6ee7a4f67dc3)<br>
 • 업무지역의 시간대별 승하차수 → 업무지역에서는 오전에는 하차가, 오후에는 승차가 많은 것을 확인할 수 있었습니다.<br><br>
 <br>
 ![image](https://github.com/heegu0513/project/assets/100845169/9006f696-78bf-4993-bc63-9f50af2a291b)<br>
