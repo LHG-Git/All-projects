@@ -37,10 +37,9 @@
 • month → 12-2월: 겨울/3-5월: 봄/6-8월: 여름/9-11월: 가을→ '계절'이라는 파생변수를 생성하였습니다.
 
 ## 📊 EDA(탐색적 데이터 분석)
-![image](https://github.com/heegu0513/project/assets/100845169/17a46e20-1384-4cd4-bcb6-0d3e31de1b90)<br>
+![image](https://github.com/heegu0513/project/assets/100845169/17a46e20-1384-4cd4-bcb6-0d3e31de1b90)![image](https://github.com/heegu0513/project/assets/100845169/5ee3567a-d3b2-48ed-b27c-08eb43e7ed76)<br>
 • 누적 휴일에 따른 총 승객수 → 휴일이 겹칠수록 승하차 수 감소 양상을 보였습니다.<br><br>
 <br>
-![image](https://github.com/heegu0513/project/assets/100845169/5ee3567a-d3b2-48ed-b27c-08eb43e7ed76)<br>
 • 한파/폭염 여부에 따른 총 승객수 → 승하차 수가 날씨의 영향을 받는다는 것을 확인할 수 있었습니다.<br><br>
 <br>
 ![image](https://github.com/heegu0513/project/assets/100845169/2932e8b0-69c3-4c3c-9018-1dd1afde6c18)<br>
