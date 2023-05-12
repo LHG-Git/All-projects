@@ -40,25 +40,25 @@
 <br>
 ![image](https://github.com/heegu0513/project/assets/100845169/5ee3567a-d3b2-48ed-b27c-08eb43e7ed76)<br>
 • 한파/폭염 여부에 따른 총 승객수 → 승하차 수가 날씨의 영향을 받는다는 것을 확인할 수 있었습니다.<br><br>
-
+<br>
 ![image](https://github.com/heegu0513/project/assets/100845169/2932e8b0-69c3-4c3c-9018-1dd1afde6c18)<br>
 • 상업지역의 시간대별 승하차수 → 시간대별 특징이 두드러지지 않고, 골고루 유동인구가 분포되어 있었습니다.<br><br>
-
+<br>
 ![image](https://github.com/heegu0513/project/assets/100845169/07612fae-6830-4cb0-90e0-716f85e2eb25)<br>
 • 주거지역의 시간대별 승하차수 → 주거지역에서는 오전에는 승차가, 오후에는 하차가 많은 것을 확인할 수 있었습니다.<br><br>
-
+<br>
 ![image](https://github.com/heegu0513/project/assets/100845169/a27c5753-6280-48cd-8e60-6ee7a4f67dc3)<br>
 • 업무지역의 시간대별 승하차수 → 업무지역에서는 오전에는 하차가, 오후에는 승차가 많은 것을 확인할 수 있었습니다.<br><br>
-
+<br>
 ![image](https://github.com/heegu0513/project/assets/100845169/9006f696-78bf-4993-bc63-9f50af2a291b)<br>
 • 역 반경 500m에 포함된 시설물 → 역별로 시설물 개수 차이가 확연하게 드러난다는 것을 확인할 수 있었습니다.<br><br>
-
+<br>
 ![image](https://github.com/heegu0513/project/assets/100845169/6b17bf9b-7d02-4676-9754-0c5a7e07b6a2)<br>
 • 계절에 따른 승하차수 → 방학 시즌에 대학교 역의 승하차수가 확실히 적은 경향이 있다는 것을 확인할 수 있었습니다.<br><br>
-
+<br>
 ![image](https://github.com/heegu0513/project/assets/100845169/5bb9af83-a46d-4409-a7fa-67bbd72851f6)<br>
 • 강수량에 따른 승하차수 → 비가 매우 많이 올 때가 비가 보통으로 오는 날 보다 오히려 승하차 수가 조금 증가한다는 것을 확인할 수 있었습니다.<br><br>
-
+<br>
 ![image](https://github.com/heegu0513/project/assets/100845169/8d9c6bc3-436d-4465-a311-2b1d6e90f5dc)<br>
 • 계절에 따른 승하차수 → 월드컵 경기장역의 경우 스포츠 폐막 시기인 가을에 승하차수가 기하급수적으로 늘어난다는 것을 확인할 수 있었습니다.
 
