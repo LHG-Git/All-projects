@@ -1,4 +1,7 @@
 # 🥈 2022 서울시 빅데이터 컨퍼런스
+<div align="center">
+## 🚆 지하철 9호선 신설역 수요인원 예측 모델 개발 및 정책 제안
+</div>
 ## 🚆 지하철 9호선 신설역 수요인원 예측 모델 개발 및 정책 제안
 ![image](https://github.com/heegu0513/project/assets/100845169/327d25a9-9f23-43e5-8457-5a8c81aa1cba)
 
