@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  ![image](https://github.com/heegu0513/project/assets/100845169/327d25a9-9f23-43e5-8457-5a8c81aa1cba)
+  https://github.com/heegu0513/project/assets/100845169/327d25a9-9f23-43e5-8457-5a8c81aa1cba
 </div>
 
 
