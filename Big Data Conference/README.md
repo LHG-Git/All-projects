@@ -72,6 +72,7 @@
 
 
 ## 📊 EDA(탐색적 데이터 분석)
+### 1) 승하차에 영향을 주는 요인들 확인
 <h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/7237b671-8e84-467c-885a-f191acd9bc23"></h3>
 
 * 휴일이 겹칠수록 승하차 수 감소<br>
@@ -82,6 +83,7 @@
 
 * 강수량이 높아질수록 승하차 수 감소(예외적으로 매우 강한 비가 내릴때는 보통으로 내릴때보다 승하차 수가 많은 특이한 현상 발생)<br><br>
 
+### 2) 역별 시간대별 승하차 인원 확인
 <h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/e42cb0ab-d86b-4162-b753-edfe17d877c7"></h3>
 
 * 시간과 관계없이 골고루 유동인구가 분포합니다.
