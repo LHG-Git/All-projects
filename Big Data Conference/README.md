@@ -4,7 +4,7 @@
 </div>
 <h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/96a1bc6f-4638-47ef-a0c1-9d87615b1a62"></h3>
 <h3>💭 분석툴 : JupiterLab, Pandas, Numpy, Geopandas, Matplotlib, Seaborn, Haversine, Sklearn<br><br>
-    📅 진행기간 : 2022.09.01 ~ 2022.11.30</h3><br>
+    📅 진행기간 : 2022.09.01 ~ 2022.11.30</h3>
 
 ### 👨‍👦‍👦 팀원소개
 <table>
