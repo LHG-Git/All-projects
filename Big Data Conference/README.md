@@ -126,6 +126,7 @@
 
 ## 5) LightGBM
 #### <strong>LightGBM 모델을 통한 승하차수 예측</strong>,<strong>평균 절대 오차값인 MAE값을 통한 모델 성능 검증</strong><br><br>
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/91536d1e-30f3-45e7-a484-fee82143c46d"></h3>
 #### (1차) : 파라미터 조정 및 k-fold 교차검증을 이용하지 않고, LightGBM 모델의 default값 그대로 초기 예측을 진행 
 * <strong>상업그룹의 MAE : 2600명, 업무주거그룹의 MAE값 : 2100명</strong><br><br>
 #### (2차) : 하이퍼 파라미터 튜닝을 통해 최적의 파라미터 값을 지정 및 5차 k-fold를 이용하여 노이즈 값을 최소화한 후 예측을 진행
