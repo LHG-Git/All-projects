@@ -117,7 +117,7 @@
 
 ### 4) Hold-Out 검정
 * <strong>Lidge, Lasso, RandomForest, Xgboost, DecisionTree, lightgbm</strong> 등 여러 회귀분석 모델 선택을 위해 Hold-Out검정을 진행하였습니다.<br><br>
-* 그 결과, LGBM모델이 가장 적합한 모델로 선정이 되었으며, <strong>9호선 신설역 수요 예측을 LGBM모델을 이용하여 진행</strong>하기로 하였습니다.<br><br><br>
+* 그 결과, LGBM모델이 가장 적합한 모델로 선정이 되었으며, <strong>9호선 신설역 수요 예측을 LGBM모델을 이용하여 진행</strong>하기로 하였습니다.<br><br><br><br><br>
 
 ### 5) LightGBM
 * <strong>LightGBM 모델을 사용하여 승하차수를 예측</strong>하였고, <strong>평균 절대 오차값인 MAE값을 통해 모델의 성능을 검증</strong>하였습니다.<br><br>
