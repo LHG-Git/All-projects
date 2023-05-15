@@ -3,9 +3,8 @@
   🚔 음주운전 신고건수 예측 모델 개발</h1>
 </div>
 
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/96a1bc6f-4638-47ef-a0c1-9d87615b1a62"></h3>
-<h3>💭 분석툴 : JupiterLab, Pandas, Numpy, Geopandas, Matplotlib, Seaborn, Haversine, Sklearn<br><br>
-    📅 진행기간 : 2022.09.01 ~ 2022.11.30</h3>
+<h3>💭 분석툴 : JupiterLab, Pandas, Numpy, Geopandas, Matplotlib, Seaborn, Sklearn<br><br>
+    📅 진행기간 : 2023.02.01 ~ 2023.02.25</h3>
 
 ### 👨‍👦‍👦 팀원소개
 <table>
