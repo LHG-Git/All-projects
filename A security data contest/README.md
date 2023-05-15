@@ -2,6 +2,21 @@
   <h1>2023 지역 치안 안전 데이터 분석 경진대회<br><br>
   🚔 음주운전 신고건수 예측 모델 개발</h1>
 </div>
+
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/96a1bc6f-4638-47ef-a0c1-9d87615b1a62"></h3>
+<h3>💭 분석툴 : JupiterLab, Pandas, Numpy, Geopandas, Matplotlib, Seaborn, Haversine, Sklearn<br><br>
+    📅 진행기간 : 2022.09.01 ~ 2022.11.30</h3>
+
+### 👨‍👦‍👦 팀원소개
+<table>
+<tbody>
+  <tr>
+    <td align="center"><img src="" width="20px;" alt=""><br /><b>팀장 : 유제우</b></a><br /></td>
+    <td align="center"><img src="" width="20px;" alt=""/><br /><b>팀원 : 이희구</b></a><br /></td>
+    <td align="center"><img src="" width="20px;" alt=""/><br /><b>팀원 : 이현중</b></a><br /></td>
+   <tr/>
+</tbody>
+</table>
 <br><br>
 스마트치안 빅데이터 플랫폼에서 주관한 2023년 치안데이터 활용 데이터 분석 공모전에서 대전, 충남, 세종 지역 교통사고 분석 및 예측을 주제로 프로젝트를 진행하였습니다. 저희팀은 교통사고 분석주제를 더 세분화하여 음주운전으로 범위를 좁혔고, 음주운전 분석 및 예측을 주제로 프로젝트를 준비하였습니다.
 <br><br>
