@@ -134,6 +134,7 @@
 ## 예측결과
 ### 1) 역별 예측 결과
 <h3 align="left"><img src="https://github.com/heegu0513/project/assets/100845169/d9dee8db-28bb-4b96-987a-58804a27577a" width = 1000px height = 400px></h3>
+
 ### 2) 혼잡률
 <h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/5a96a96b-6bd2-4631-b13d-e9889ef4a96c" width = 500px height = 300px></h3>
 
