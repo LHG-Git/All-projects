@@ -95,7 +95,7 @@
 
 ## 📄 Modeling
 ## 1) K-means clustering
-![image](https://github.com/heegu0513/project/assets/100845169/043aa7d8-ad25-4438-98b0-e371eadcdc76)
+<h3 align="center"><img src= https://github.com/heegu0513/project/assets/100845169/043aa7d8-ad25-4438-98b0-e371eadcdc76></h3>
 
 * 기계학습에 의한 클러스터링 결과 Group0은 52개의 역, Group1 82개의 역, Group2 37개의 역 결과가 나왔습니다.<br><br> 
 
