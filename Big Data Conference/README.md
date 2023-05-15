@@ -72,7 +72,7 @@
 
 
 ## 📊 EDA(탐색적 데이터 분석)
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/7237b671-8e84-467c-885a-f191acd9bc23"></h3>
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/7237b671-8e84-467c-885a-f191acd9bc23"></h3><br>
 * 휴일이 겹칠수록 승하차 수 감소<br>
 * 날씨(한파, 폭염)의 영향으로 승하차 수 감소<br>
 * 대학교 역 주변은 방학 시즌에 승하차 수가 눈에 띄게 감소<br>
