@@ -10,9 +10,9 @@
 <table>
 <tbody>
   <tr>
-    <td align="center"><a href="Screenshot1.png"><img src="width="100px;" alt=""/><br /><sub><b>FE 팀장 : 유제우</b></sub></a><br /></td>
-    <td align="center"><a href="Screenshot1.png"><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 이희구</b></sub></a><br /></td>
-    <td align="center"><a href="Screenshot1.png"><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 이현중</b></sub></a><br /></td>
+    <td align="center"><a href="Screenshot1.png"><img src="width="100px;" alt=""/><br /><sub><b>팀장 : 유제우</b></sub></a><br /></td>
+    <td align="center"><a href="Screenshot1.png"><img src="" width="100px;" alt=""/><br /><sub><b>팀원 : 이희구</b></sub></a><br /></td>
+    <td align="center"><a href="Screenshot1.png"><img src="" width="100px;" alt=""/><br /><sub><b>팀원 : 이현중</b></sub></a><br /></td>
    <tr/>
 </tbody>
 </table>
