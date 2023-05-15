@@ -148,6 +148,11 @@
 ### 1) 역별 예측 결과
 <h3 align="left"><img src="https://github.com/heegu0513/project/assets/100845169/d9dee8db-28bb-4b96-987a-58804a27577a" width = 1000px height = 400px></h3>
 
+* 현재 9호선 역별 일평균 수요 승객은 2.7만명
+* 길동생태공원, 명일공원역은 비교적 원활
+* 샘터공원역은 9호선 일평균 수치와 비슷
+* 고덕역은 다양한 인프라가 형성되어 있어 약 3.8만명으로 1일 승하차 평균을 크게 넘어 유동인구 혼잡 예상
+
 ### 2) 혼잡률
 <h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/5a96a96b-6bd2-4631-b13d-e9889ef4a96c" width = 500px height = 300px></h3>
 
