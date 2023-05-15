@@ -10,7 +10,7 @@
 <table>
 <tbody>
   <tr>
-    <td align="center"><a href="Screenshot1.png"><img src="width="80px;" alt=""/><br /><b>팀장 : 유제우</b></a><br /></td>
+    <td align="center"><img src="width="80px;" alt=""/><br /><b>팀장 : 유제우</b></a><br /></td>
     <td align="center"><a href="Screenshot1.png"><img src="" width="80px;" alt=""/><br /><b>팀원 : 이희구</b></a><br /></td>
     <td align="center"><a href="Screenshot1.png"><img src="" width="80px;" alt=""/><br /><b>팀원 : 이현중</b></a><br /></td>
    <tr/>
