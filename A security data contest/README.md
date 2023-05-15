@@ -135,7 +135,7 @@
 * <strong>ARIMA 모델에서 MAE값 약 183으로, 월별 신고 건수 오차 값이 183건 정도로 예측</strong><br><br><br>
 
 ## 3) 지수이동평균(EMA)
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/fd72aa92-d097-4ddc-aa48-5502bfaf112d"></h3>
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/fd72aa92-d097-4ddc-aa48-5502bfaf112d" width = 600px height = 150px></h3>
 
 * 지수이동평균은 데이터의 추세와 계절성에 대한 설명에 기초해 가장 최근의 일자에 가장 큰 가중치를 둠으로 해서 최근의 시장 분위기를 잘 반영<br>
 * 전 기간의 데이터를 분석 대상으로 함으로써 가중이동평균에서 문제되는 특정 기간의 데이터만을 분석 대상으로 한다는 단점 보완<br>
@@ -143,7 +143,7 @@
 * <strong>지수이동평균(EMA) 모델에선 MAE 값이 약 130으로, 월별 신고 건수의 오차 값이 130건 정도로 예측</strong><br><br><br>
 
 ## 4) Prophet
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/f2f90e1b-2a2f-4dbc-94c1-48c28a4aa5c2"></h3>
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/f2f90e1b-2a2f-4dbc-94c1-48c28a4aa5c2" width = 600px height = 150px></h3>
 
 * Prophet은 강한 계절 효과가 있는 시계열과 여러 계절의 기록 데이터에서 가장 잘 작동<br>
 * Prophet은 누락된 데이터와 추세의 변화에 강력하며 일반적으로 이상 값을 잘 처리<br>
