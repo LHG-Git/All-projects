@@ -82,6 +82,14 @@
 
 * 강수량이 높아질수록 승하차 수 감소(예외적으로 매우 강한 비가 내릴때는 보통으로 내릴때보다 승하차 수가 많은 특이한 현상 발생)<br><br>
 
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/e42cb0ab-d86b-4162-b753-edfe17d877c7"></h3>
+
+* 시간과 관계없이 골고루 유동인구가 분포합니다.
+
+* 주거지역은 출근시간에는 승차가, 퇴근시간에는 하차가 많습니다.
+
+* 업무지역은 출근시간에는 하차가, 퇴근시간에는 승차가 많습니다.
+
 ## 📄 Modeling
 ### 1) K-means clustering
 <h3 align="center"><img src= https://github.com/heegu0513/project/assets/100845169/043aa7d8-ad25-4438-98b0-e371eadcdc76></h3>
