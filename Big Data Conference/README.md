@@ -133,7 +133,7 @@
 
 ## 예측결과
 <h3 align="left"><img src="https://github.com/heegu0513/project/assets/100845169/e89f339f-9501-44c5-a0d9-30ec5323c1fa" width = 600px height = 300px></h3>
-<h3 align="left"><img src="https://github.com/heegu0513/project/assets/100845169/0a579ba3-e2f7-4fdd-9daf-56a291121a0d" width = 400px height = 300px></h3>
+<h3 align="right"><img src="https://github.com/heegu0513/project/assets/100845169/0a579ba3-e2f7-4fdd-9daf-56a291121a0d" width = 300px height = 300px></h3>
 ## 📍 9호선 신설역 그룹화
 ### 1) 업무주거 그룹 : 길동생태공원, 명일공원역, 고덕역
 * <strong>길동생태공원</strong>의 경우엔 시점역, 천호대로와 동남부 교차로 및 주변의 공원과 더불어 아파트가 밀집되어 있습니다.<br><br>
