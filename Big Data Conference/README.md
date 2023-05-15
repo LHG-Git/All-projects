@@ -102,12 +102,12 @@
 ### 1) K-means clustering
 <h3 align="center"><img src= https://github.com/heegu0513/project/assets/100845169/043aa7d8-ad25-4438-98b0-e371eadcdc76></h3>
 
-* 클러스터링 결과 Group0은 52개의 역, Group1 82개의 역, Group2 37개의 역이 추출되었습니다.<br>
 * <strong>Group0</strong>은 시간과 관계없이 승하차 분포가 고르기 때문에 <strong>상업그룹</strong><br> 
 * <strong>Group1</strong>은 오전에는 승차에, 오후에는 하차에 분포가 되어 있기 때문에 <strong>주거그룹</strong><br>
-* <strong>Group2</strong>는 오전에는 하차에, 오후에는 승차에 분포가 되어 있기 때문에 <strong>업무그룹</strong><br>
-* EDA과정에서 업무지역과 주거지역은 출퇴근 시간에 유동인구가 밀집되어 있다는 근거를 통해, <strong>Group1과 Group2를 통합</strong>하였습니다.<br>
-* <strong>클러스터링 기법을 통해 최종적으로 Group0(상업 그룹)과 Group1(업무주거 그룹)으로 나누었습니다.</strong><br><br><br>
+* <strong>Group2</strong>는 오전에는 하차에, 오후에는 승차에 분포가 되어 있기 때문에 <strong>업무그룹</strong><br><br>
+
+* EDA과정에서 업무지역과 주거지역은 출퇴근 시간에 유동인구가 밀집되어 있다는 근거를 통해, <strong>Group1과 Group2를 통합</strong><br>
+* <strong>클러스터링 기법을 통해 최종적으로 Group0(상업 그룹)과 Group1(업무주거 그룹)으로 분류</strong><br><br><br>
 
 ### 2) ANOVA검정
 * EDA 및 분석을 통해 사용하고자 하는 변수(독립변수)가, 승하차인원 값(종속변수)에  미치는 영향이 <strong>통계적으로 유의한지 확인하기 위해 진행</strong>하였습니다.<br><br><br>
