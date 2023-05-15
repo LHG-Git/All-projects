@@ -125,7 +125,7 @@
 * 시계열 분석을 위해 일별로 구성된 데이터 셋을 월을 기준으로 합쳐주어 다운샘플링을 진행<br><br><br>
 
 ## 2) ARIMA
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/4a1f02b2-762d-4169-a804-bf6ab760dc7a" width = 600px height = 100px></h3>
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/4a1f02b2-762d-4169-a804-bf6ab760dc7a" width = 600px height = 200px></h3>
 
 * 대전, 충남, 세종지역의 음주운전 신고건수 추세(trend)에서 일정한 패턴이 보이지 않았기 때문에, 정상성 여부 판단을 위해 가설 설정<br>
 * p-value값이 0.05보다 크기 때문에, 해당 데이터가 정상성을 만족하지 못하여, 데이터가 정상성을 만족하지 못한다는 귀무가설 채택<br>
