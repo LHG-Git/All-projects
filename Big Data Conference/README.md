@@ -121,13 +121,14 @@
 |업무주거그룹 변수|행정, 대학생 수, 학생 수(중,고등), 교육/보건, 중소기업 개수|<br><br><br>
 <br><br>
 ### 4) Hold-Out 검정
-* <strong>Lidge, Lasso, RandomForest, Xgboost, DecisionTree, LightGBM</strong> 등 여러 회귀분석 모델들 중 모델 선정을 위한 Hold-Out 검정을 진행<br>
+* <strong>Lidge, Lasso, RandomForest, Xgboost, DecisionTree, LightGBM</strong> 등 여러 회귀분석 모델들 중 모델 선정을 위한 <strong>Hold-Out 검정</strong>을 진행<br>
 * 그 결과, <strong>9호선 신설역 수요 예측에 LightGBM 모델이 가장 적합할 것이라 판단하여 진행</strong><br><br><br>
 
 ### 5) LightGBM
-* <strong>LightGBM 모델을 사용하여 승하차수를 예측</strong>하였고, <strong>평균 절대 오차값인 MAE값을 통해 모델의 성능을 검증</strong>하였습니다.<br><br>
-* 1차적으로 파라미터 조정 및 k-fold 교차검증을 이용하지 않고, LightGBM 모델의 default값 그대로 초기 예측을 진행한 결과 <strong>상업그룹의 경우 MAE값이 2600명, 업무주거그룹의 경우 MAE값이 2100명</strong> 정도가 나오는 것을 확인할 수 있었습니다.<br><br>
-* 2차적으로 하이퍼 파라미터 튜닝을 통해 최적의 파라미터 값을 지정해주었고, 5차 k-fold를 이용하여 노이즈 값을 최소화한 후 예측을 진행한 결과 <strong>상업그룹의 경우 MAE값이 1500명, 업무주거그룹의 경우 MAE값이 990명 정도로 오차 값이 1000~1100명 정도 줄어 성능이 향상</strong>된 것을 확인할 수 있었습니다.<br><br>
+* <strong>LightGBM 모델을 통한 승하차수 예측</strong>,<strong>평균 절대 오차값인 MAE값을 통한 모델 성능 검증</strong><br><br>
+* <1차> 파라미터 조정 및 k-fold 교차검증을 이용하지 않고, LightGBM 모델의 default값 그대로 초기 예측을 진행 → <strong>상업그룹의 MAE : 2600명, 업무주거그룹의 MAE값 : 2100명</strong><br><br>
+* <2차> 하이퍼 파라미터 튜닝을 통해 최적의 파라미터 값을 지정 및 5차 k-fold를 이용하여 노이즈 값을 최소화한 후 예측을 진행 → <strong>상업그룹의 MAE값이 1500명, 업무주거그룹의 MAE값 990명 
+#### <결론> 오차 값이 1000~1100명 정도 감소하여 성능이 향상<br><br>
 
 ### 6) 모델 성능 향상
 * 최적의 하이퍼 파라미터 값을 이용하기 위해, <strong>하이퍼파라미터 튜닝</strong>을 진행하였습니다.<br><br>
