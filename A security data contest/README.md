@@ -93,7 +93,7 @@
 
 # 📊 EDA(탐색적 데이터 분석)
 ### 1) 시간의 흐름에 따른 음주운전 신고 건수
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/b9589caf-ae47-4ac2-83f2-72344399e492" height = 600px></h3>
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/b9589caf-ae47-4ac2-83f2-72344399e492"></h3>
 
 
 
