@@ -5,6 +5,16 @@
 <h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/96a1bc6f-4638-47ef-a0c1-9d87615b1a62"></h3>
 <h3>💭 분석툴 : JupiterLab, Pandas, Numpy, Geopandas, Matplotlib, Seaborn, Haversine, Sklearn<br><br>
     📅 진행기간 : 2022.09.01 ~ 2022.11.30</h3><br>
+    
+<table>
+<tbody>
+  <tr>
+    <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>FE 팀장 : 유제우</b></sub></a><br /></td>
+    <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 이희구</b></sub></a><br /></td>
+    <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 이현중</b></sub></a><br /></td>
+   <tr/>
+</tbody>
+</table>
 
 ## 프로젝트 개요
 * 지하철이라는 주제 특성상 많은 사람들이 흔하게 접할 수 있다는 점, 특히 출퇴근 시간에 지하철 내부의 혼잡률은 겉잡을 수 없이 심하기 때문에, 압사사고, 안전사고 등이 쉽게 일어날 수 있다는 점(당시 정말 안타깝게 발생한 이태원 참사사건으로, 혼잡률 그리고 밀집률에 대한 분석 주제가 아무래도 조금 더 관심을 받지 않았나라는 생각이 들었습니다.)<br><br>
