@@ -17,7 +17,7 @@
 </tbody>
 </table>
 
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/8ae51401-ecdc-4834-900d-ad93bd570b35"></h3>
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/8ae51401-ecdc-4834-900d-ad93bd570b35" height = 400px></h3>
 
 
 ## 🔊 프로젝트 개요
