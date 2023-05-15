@@ -10,7 +10,7 @@
 <table>
 <tbody>
   <tr>
-    <td align="center"><img src="width="20px;" alt=""/><br /><b>팀장 : 유제우</b></a><br /></td>
+    <td align="center"><img src=""><br /><b>팀장 : 유제우</b></a><br /></td>
     <td align="center"><img src="" width="20px;" alt=""/><br /><b>팀원 : 이희구</b></a><br /></td>
     <td align="center"><img src="" width="20px;" alt=""/><br /><b>팀원 : 이현중</b></a><br /></td>
    <tr/>
