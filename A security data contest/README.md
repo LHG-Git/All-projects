@@ -151,7 +151,7 @@
 * <strong>Prophet 모델에선 MAE 값이 약 104로, 월별 신고 건수의 오차 값이 104건 정도로 예측</strong><br><br><br> 
 
 
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/b64033ee-ac94-4da6-aa98-405f735f203e" width = 800px height = 300px></h3>
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/b64033ee-ac94-4da6-aa98-405f735f203e" width = 1000px height = 500px></h3>
 
 
 
