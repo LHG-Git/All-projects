@@ -152,8 +152,8 @@
 
 |Arima|EMA|Prophet|
 |------|------|:------:|
-|<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/4a1f02b2-762d-4169-a804-bf6ab760dc7a" width = 33% height = 110px></h3>|<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/fd72aa92-d097-4ddc-aa48-5502bfaf112d" width = 33% height = 110px ></h3>|<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/f2f90e1b-2a2f-4dbc-94c1-48c28a4aa5c2" width = 33% height = 110px></h3>|
-|▪ 정상성 여부 판단을 위해 가설 설정<br>▪ p-value값이 0.05보다 큼<br>▪ 데이터가 정상성을 만족하지 못한다는 귀무가설 채택<br>▪ 1차 차분 후, p-value값이 0.05보다 작아져 정상성을 만족<br>▪ 귀무가설 기각<br>▪ 하이퍼 파라미터 튜닝을 통해 최적의 p, d, q값 탐색|▪ 가장 최근의 일자에 가장 큰 가중치를 <br>둠으로 해서 최근의 시장 분위기를 잘 반영<br><br>▪ 전 기간의 데이터를 분석 대상으로 함으로써 가중이동평균에서 문제되는 <br>특정 기간의 데이터만을 분석 대상으로 <br>한다는 단점 보완|MAE : 104|
+|<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/4a1f02b2-762d-4169-a804-bf6ab760dc7a" width = 300px height = 110px></h3>|<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/fd72aa92-d097-4ddc-aa48-5502bfaf112d" width = 300px height = 110px ></h3>|<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/f2f90e1b-2a2f-4dbc-94c1-48c28a4aa5c2" width = 300px height = 110px></h3>|
+|▪ 정상성 여부 판단을 위해 가설 설정<br>▪ p-value값이 0.05보다 큼<br>▪ 데이터가 정상성을 만족하지 못한다는 귀무가설 채택<br>▪ 1차 차분 후, p-value값이 0.05보다 작아져 정상성을 만족<br>▪ 귀무가설 기각<br>▪ 하이퍼 파라미터 튜닝을 통해 최적의 p, d, q값 탐색|▪ 가장 최근의 일자에 가장 큰 가중치를 <br>둠으로 해서 최근의 시장 분위기를 잘 반영<br><br>▪ 전 기간의 데이터를 분석 대상으로 함으로써 가중이동평균에서 문제되는 특정 <br>기간의 데이터만을 분석 대상으로 한다는 <br>단점 보완|MAE : 104|
 |MAE : 183|MAE : 130|MAE : 104|
 
 
