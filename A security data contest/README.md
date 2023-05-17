@@ -150,9 +150,9 @@
 * <strong>평균 절대 오차값인 MAE값</strong>을 통해 모델 성능 검증<br>
 * <strong>Prophet 모델에선 MAE 값이 약 104로, 월별 신고 건수의 오차 값이 104건 정도로 예측</strong><br><br><br> 
 
-|Arima|EMA|Prophet|
-|------|------|------|
-|Model||<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/4a1f02b2-762d-4169-a804-bf6ab760dc7a" width = 300px height = 110px></h3>|<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/fd72aa92-d097-4ddc-aa48-5502bfaf112d" width = 300px height = 110px ></h3>|<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/f2f90e1b-2a2f-4dbc-94c1-48c28a4aa5c2" width = 300px height = 110px></h3>|
+|Model||Arima|EMA|Prophet|
+|---||------|------|------|
+|결과||<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/4a1f02b2-762d-4169-a804-bf6ab760dc7a" width = 300px height = 110px></h3>|<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/fd72aa92-d097-4ddc-aa48-5502bfaf112d" width = 300px height = 110px ></h3>|<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/f2f90e1b-2a2f-4dbc-94c1-48c28a4aa5c2" width = 300px height = 110px></h3>|
 |정의||▪ ARIMA(p,d,q) 모형은 d차 차분한 데이터에 위 AR(p) 모형과 MA(q) 모형을 합친 모형<br><br>▪ 주어진 문제를 상호 보완적으로 시계열을 예측하는 하나의 접근 방법|▪ 가장 최근의 일자에 가장 큰 가중치를 둠으로 해서 최근의 시장 분위기를 잘 반영<br><br>▪ 전 기간의 데이터를 분석 대상으로 <br>함으로써 가중이동평균에서 문제되는 <br>특정 기간의 데이터만을 분석 대상으로 <br>한다는 단점 보완| ▪ 강한 계절 효과가 있는 시계열과 여러 계절의 기록 데이터에서 가장 잘 작동<br><br>▪ 누락된 데이터와 추세의 변화에 강력하며 일반적으로 이상 값을 잘 처리 |
 |MAE ||MAE : 183|MAE : 130|MAE : 104|
 
