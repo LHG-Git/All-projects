@@ -153,6 +153,9 @@
 |Arima|EMA|Prophet|
 |:------:|:------:|:------:|
 |<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/4a1f02b2-762d-4169-a804-bf6ab760dc7a"></h3>|<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/fd72aa92-d097-4ddc-aa48-5502bfaf112d" ></h3>|<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/f2f90e1b-2a2f-4dbc-94c1-48c28a4aa5c2"></h3>|
+|▪ 정상성 여부 판단을 위해 가설 설정<br>▪ p-value값이 0.05보다 큼<br>▪ 데이터가 정상성을 만족하지 못한다는 귀무가설 채택<br>▪ 1차 차분 후, p-value값이 0.05보다 작아져 정상성을 만족<br>▪ 귀무가설 기각<br>▪ 하이퍼 파라미터 튜닝을 통해 최적의 p, d, q값 탐색|MAE : 130|MAE : 104|
+
+
 |MAE : 183|MAE : 130|MAE : 104|
 
 
