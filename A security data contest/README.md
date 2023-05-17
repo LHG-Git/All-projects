@@ -123,13 +123,10 @@
 # 📄 Modeling
 ## 1) Resampling
 * 시계열 분석을 위해 일별로 구성된 데이터 셋을 월을 기준으로 합쳐주어 다운샘플링을 진행<br><br><br>
-## 2) 세 모델 성능 비교
+## 2) 모델 성능 비교
 <h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/b64033ee-ac94-4da6-aa98-405f735f203e" width = 900px height = 400px></h3>
 
-
-
-
-## 5) 최종 모델 선정
+## 3) 최종 모델 선정
 * 최종적으로 3가지 모델들 중, MAE값이 가장 낮아 성능이 가장 좋은 <strong>Prophet 모델을 선정</strong><br><br><br>
 
 # 🖥 예측 결과
