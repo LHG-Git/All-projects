@@ -18,6 +18,7 @@
 </table>
 <br><br>
 <h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/af4f1581-563a-4526-92f8-b97844ef1093"></h3><br><br><br>
+
 # 🔊 프로젝트 개요
 ## 1) 충청권 음주운전 교통사고 심각
 * 최근 코로나 방역완화로 시민들의 활동량이 늘어나 음주운전의 빈도 증가로 사고 발생률 또한 증가<br>
