@@ -17,7 +17,7 @@
 </tbody>
 </table>
 <br><br>
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/af4f1581-563a-4526-92f8-b97844ef1093"></h3><br>
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/af4f1581-563a-4526-92f8-b97844ef1093"></h3>
 
 # 🔊 프로젝트 개요
 ## 1) 충청권 음주운전 교통사고 심각
