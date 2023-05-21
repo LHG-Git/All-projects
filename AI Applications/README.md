@@ -2,7 +2,7 @@
   <h1>🥉 2022 AI Applications 학생 경연대회<br><br>
   👁‍🗨 시각지능을 이용한 보행로 혼잡도 해결 서비스 </h1>
 </div>
-
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/92446135-2adc-4732-92fa-5fb9f62f8e03"></h3><br>
 <h3>📅 진행기간 : 2022.10.31 ~ 2022.11.03</h3>
 
 ### 👨‍👦‍👦 팀원소개
