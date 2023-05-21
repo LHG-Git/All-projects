@@ -4,7 +4,7 @@
 </div>
 
 <h3>💭 분석툴 : JupiterLab, Pandas, Numpy, Geopandas, Matplotlib, Seaborn, Sklearn<br><br>
-    📅 진행기간 : 2022.09.01 ~ 2022.11.30</h3>
+    📅 진행기간 : 2022.11.15 ~ 2022.12.02</h3>
 
 ### 👨‍👦‍👦 팀원소개
 <table>
