@@ -67,26 +67,21 @@
 <br><br>
 
 # 📊 EDA(탐색적 데이터 분석)
-## 1) 승하차에 영향을 주는 요인들 확인
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/7237b671-8e84-467c-885a-f191acd9bc23"></h3>
+## 1) 변수별 서울시 구별 밀집도 확인
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/1b96d360-d811-49f4-9e33-7539fed1b09e"></h3>
 
-* 휴일이 겹칠수록 승하차 수 감소<br>
-
-* 날씨(한파, 폭염)의 영향으로 승하차 수 감소<br>
-
-* 대학교 역 주변은 방학 시즌에 승하차 수가 눈에 띄게 감소<br>
-
-* 강수량이 높아질수록 승하차 수 감소(예외적으로 매우 강한 비가 내릴때는 보통으로 내릴때보다 승하차 수가 많은 특이한 현상 발생)<br><br>
+* 급속 충전기, 직장인구, 지역인구의 밀집도가 지역별로 비슷한 양상을 띄고 있는 것을 확인
+<br><br>
 
 ## 2) 역별 시간대별 승하차 인원 확인
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/e42cb0ab-d86b-4162-b753-edfe17d877c7"></h3>
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/5ed9db20-091b-4809-b6a4-f9e670d141e1"></h3>
 
-* 시간과 관계없이 골고루 유동인구가 분포합니다.
+* 전기차 대수 변수가 가장 상관관계가 높은 것을 확인 
+* 직장인구와 지역인구의 상관관계가 비슷한 상황인 것을 확인
+* 직장인구와 지역인구는 99%의 상관관계가 있어 두 개의 데이터 중 전기차 충전소 입지선정을 위해 직장인구 데이터만 사용
 
-* 주거지역은 출근시간에는 승차가, 퇴근시간에는 하차가 많습니다.
-
-* 업무지역은 출근시간에는 하차가, 퇴근시간에는 승차가 많습니다.
 <br><br>
+
 # 📄 Modeling
 ## 1) K-means clustering
 <h3 align="center"><img src= https://github.com/heegu0513/project/assets/100845169/043aa7d8-ad25-4438-98b0-e371eadcdc76></h3>
