@@ -89,11 +89,15 @@
 
 * 'Elbow Method'를 통해 군집화를 하기 위한 최적의 K값 3을 도출
 
+<br><br>
+
 ## 2) K-means Clustering (전기차 대수와 급속 충전기)
 <h3 align="center"><img src= "https://github.com/heegu0513/project/assets/100845169/21fd5d6f-f8e5-4966-90e8-d3615afcbf6e"
 ></h3>
 
 * 상관관계가 가장 높았던 전기차 대수와 급속 충전기 개수를 군집화해준 결과, 그룹별 큰 특징을 찾지 못하여 직장인구 데이터를 군집화
+
+<br><br>
 
 ## 3) K-means Clustering (직장인구와 급속 충전기)
 <h3 align="center"><img src= "https://github.com/heegu0513/project/assets/100845169/7c2af714-e6d8-4587-b5d9-b6ecea78de90"
