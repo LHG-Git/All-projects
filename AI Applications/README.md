@@ -133,6 +133,9 @@
 
 <br>
 
+# 핵심 파트너십
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/724fa416-ec64-404e-a732-34536352a9b6"></h3>
+
 
 
 
