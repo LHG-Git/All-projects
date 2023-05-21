@@ -57,6 +57,7 @@
 
 # 🔎 'WalkFREE' 구현 모습
 <h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/552e4c32-3a45-4a47-a803-0aef521f97b3"></h3><br>
+
 |모델 구현|기능|
 |:------:|:------:|
 |Walk|보행로 네비게이션 어플리케이션 상용화|
