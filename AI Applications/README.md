@@ -1,16 +1,16 @@
 <div align="center">
   <h1>2022 AI Applications 학생 경연대회<br><br>
-  👓👁‍🗨 시각지능을 이용한 보행로 혼잡도 해결 서비스 </h1>
+  👁‍🗨 시각지능을 이용한 보행로 혼잡도 해결 서비스 </h1>
 </div>
 
-<h3>💭 분석툴 : JupiterLab, Pandas, Numpy, Geopandas, Matplotlib, Seaborn, Sklearn<br><br>
-    📅 진행기간 : 2023.02.01 ~ 2023.02.25</h3>
+<h3>📅 진행기간 : 2023.02.01 ~ 2023.02.25</h3>
 
 ### 👨‍👦‍👦 팀원소개
 <table>
 <tbody>
   <tr>
     <td align="center"><img src="" width="20px;" alt=""><br /><b>팀장 : 유제우</b></a><br /></td>
+    <td align="center"><img src="" width="20px;" alt=""/><br /><b>팀원 : 이혜빈</b></a><br /></td>
     <td align="center"><img src="" width="20px;" alt=""/><br /><b>팀원 : 이희구</b></a><br /></td>
     <td align="center"><img src="" width="20px;" alt=""/><br /><b>팀원 : 이현중</b></a><br /></td>
    <tr/>
