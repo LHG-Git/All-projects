@@ -82,13 +82,12 @@
 
 <br><br>
 
-# 📄 Modeling
+# 📄 최적의 K값 찾기 - Elbow Method
 ## 1) K-means clustering
-<h3 align="center"><img src= https://github.com/heegu0513/project/assets/100845169/043aa7d8-ad25-4438-98b0-e371eadcdc76></h3>
+<h3 align="center"><img src= "https://github.com/heegu0513/project/assets/100845169/b3f79d5d-0bca-4b0e-9d81-7b79c66000bf"
+></h3>
 
-* <strong>Group0</strong>은 시간과 관계없이 승하차 분포가 고르기 때문에 <strong>상업그룹</strong><br> 
-* <strong>Group1</strong>은 오전에는 승차에, 오후에는 하차에 분포가 되어 있기 때문에 <strong>주거그룹</strong><br>
-* <strong>Group2</strong>는 오전에는 하차에, 오후에는 승차에 분포가 되어 있기 때문에 <strong>업무그룹</strong><br><br>
+* 'Elbow Method'를 통해 군집화를 하기 위한 최적의 K값 3을 도출
 
 #### EDA과정에서 업무지역과 주거지역은 출퇴근 시간에 유동인구가 밀집되어 있다는 근거를 통해, <strong>Group1과 Group2를 통합</strong><br>
 #### <strong>클러스터링 기법을 통해 최종적으로 Group0(상업 그룹)과 Group1(업무주거 그룹)으로 분류</strong><br><br><br>
