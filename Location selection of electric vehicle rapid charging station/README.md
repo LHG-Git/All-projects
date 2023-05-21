@@ -82,8 +82,8 @@
 
 <br><br>
 
-# 📄 최적의 K값 찾기 - Elbow Method
-## 1) K-means clustering
+# 📄 최적의 K값 찾기
+## 1) Elbow Method
 <h3 align="center"><img src= "https://github.com/heegu0513/project/assets/100845169/b3f79d5d-0bca-4b0e-9d81-7b79c66000bf"
 ></h3>
 
