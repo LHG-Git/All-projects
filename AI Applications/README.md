@@ -53,18 +53,21 @@
 <br><br> 
 
 # 🔎 다른 기술들과의 차이점
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/fafa6f11-2e03-49a8-837b-f481a549e0f7"></h3>
-# 🔎 데이터 전처리
-## 1) 파생변수 생성
-|데이터|파생변수 산출방법|파생변수|
-|:------:|:------:|:------:|
-|휴일여부|휴일이 누적될 때마다 +1|누적휴일|
-|통합 신고 데이터|계절 카테코리화|계절|
-|통합 신고 데이터|시간대 카테고리화|시간대|
-|통합 신고 데이터|읍/면/동만 추출|읍/면/동|
-|통합 신고 데이터|강수량 별 카테고리화|1일우량|
-|통합 신고 데이터|기온 별 카테고리화|기온|
-|읍/면/동|신고 건수 count|신고 건수|
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/fafa6f11-2e03-49a8-837b-f481a549e0f7"></h3><br><br> 
+
+# 🔎 'WalkFREE' 구현 모습
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/552e4c32-3a45-4a47-a803-0aef521f97b3"></h3><br>
+|모델 구현|기능|
+|:------:|:------:|
+|Walk|보행로 네비게이션 어플리케이션 상용화|
+|Walk|무료화 어플리케이션 등록|
+|NO MORE WAITING|색을 통한 혼잡구역 한눈에 확인 가능|
+|NO MORE WAITING|응급의료물품 위치 식별|
+|NO MORE WAITING|안전 우려 지역 표시|
+|NO MORE WAITING|사고 발생 지역 배너, 사운드, 배지 알림|
+|PLEASANT HOT PLACES|핫플레이스 추천|
+|PLEASANT HOT PLACES|가게 주변 여유, 혼잡, 포화 확인|
+|PLEASANT HOT PLACES|마이플레이스 등록 가능|
 
 ## 2) 데이터 범주화 
 |원본 변수명|파생변수 산출방법|변수명|
