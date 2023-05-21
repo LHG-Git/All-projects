@@ -135,7 +135,10 @@
 
 # 핵심 파트너십
 <h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/724fa416-ec64-404e-a732-34536352a9b6"></h3>
+<br>
 
+# 마케팅
+<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/626a7348-f161-4ab6-8194-3cc3cadc03d4"></h3>
 
 
 
