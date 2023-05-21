@@ -55,6 +55,7 @@
 
 # 🔎 다른 기술들과의 차이점
 <h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/fafa6f11-2e03-49a8-837b-f481a549e0f7"></h3>
+
 * 'WalkFREE'어플은 모든 조건을 만족
 <br><br> 
 
