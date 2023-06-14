@@ -14,7 +14,7 @@
 </tbody>
 </table>
 <br>
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/306a252c-62df-4917-a367-52154b0ebb69" height = 600px></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/404d4b3a-ac36-4533-823b-c6280df58817" height = 600px></h3>
 
 
 
