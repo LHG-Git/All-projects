@@ -68,7 +68,7 @@
 <br><br>
 
 # QGIS를 이용한 데이터 매핑
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/828f5019-63bc-4906-bb35-e025998defb9" width="200px" height="400px"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/828f5019-63bc-4906-bb35-e025998defb9" width="300px" height="300px"></h3>
 <h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/c5ea5bdc-2dae-4e9a-82fa-05bd56ca6540" ></h3>
 
 
