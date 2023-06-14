@@ -67,6 +67,13 @@
 
 <br><br>
 
+# QGIS를 이용한 데이터 매핑
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/828f5019-63bc-4906-bb35-e025998defb9" height = 600px></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/c5ea5bdc-2dae-4e9a-82fa-05bd56ca6540" height = 600px></h3>
+
+
+
+
 # 📊 EDA(탐색적 데이터 분석)
 ## 1) 상관관계 분석
 * feature간의 상관관계가 높은 경우가 있어, 다중공선성이 우려<br>
