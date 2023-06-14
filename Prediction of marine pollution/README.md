@@ -69,7 +69,7 @@
 
 # 📊 EDA(탐색적 데이터 분석)
 ## 1) 상관관계 분석
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/453e7602-2cb5-418c-b0fd-cc7f7a954e2b"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/453e7602-2cb5-418c-b0fd-cc7f7a954e2b" width= "400px" height= "400px"></h3>
 
 * feature간의 상관관계가 높은 경우가 있어, 다중공선성이 우려<br>
 
