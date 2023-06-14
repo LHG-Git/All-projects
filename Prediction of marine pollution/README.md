@@ -1,23 +1,21 @@
 <div align="center">
-  <h1>🥈 2022 서울시 빅데이터 컨퍼런스<br><br>
-  🚆 지하철 9호선 신설역 수요인원 예측 모델 개발 및 정책 제안</h1>
+  <h1>📝 개인 프로젝트<br><br>
+  🚢 해양정보를 활용한 해양오염 예측</h1>
 </div>
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/96a1bc6f-4638-47ef-a0c1-9d87615b1a62"></h3>
-<h3>💭 분석툴 : JupiterLab, Pandas, Numpy, Geopandas, Matplotlib, Seaborn, Haversine, Sklearn<br><br>
+<h3>💭 분석툴 : JupiterLab, Pandas, Numpy, Geopandas, Matplotlib, Seaborn, QGIS, Sklearn<br><br>
     📅 진행기간 : 2022.09.01 ~ 2022.11.30</h3>
 
 ### 👨‍👦‍👦 팀원소개
 <table>
 <tbody>
   <tr>
-    <td align="center"><img src="" width="20px;" alt=""><br /><b>팀장 : 유제우</b></a><br /></td>
     <td align="center"><img src="" width="20px;" alt=""/><br /><b>팀원 : 이희구</b></a><br /></td>
-    <td align="center"><img src="" width="20px;" alt=""/><br /><b>팀원 : 이현중</b></a><br /></td>
    <tr/>
 </tbody>
 </table>
 <br>
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/21e45d21-0fe9-41b3-a2cf-12dba2a2e98b" height = 600px></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/306a252c-62df-4917-a367-52154b0ebb69" height = 600px></h3>
+
 
 
 .
