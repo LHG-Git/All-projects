@@ -67,11 +67,7 @@
 <br><br>
 
 # QGIS를 이용한 데이터 매핑
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/95141a8b-1b43-447d-9996-496f51b662ff"></h3>
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/9066cdae-bda6-4507-a21b-c9d350491bb1" ></h3>
-
-
-
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/975134d4-1675-4212-baba-3a9cb8ccc6ca"></h3>
 
 
 # 📊 EDA(탐색적 데이터 분석)
