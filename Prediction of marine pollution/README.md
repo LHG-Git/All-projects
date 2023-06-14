@@ -9,13 +9,12 @@
 <table>
 <tbody>
   <tr>
-    <td align="center"><img src="" width="20px;" alt=""/><br /><b>팀원 : 이희구</b></a><br /></td>
+    <td align="left"><img src="" width="20px;" alt=""/><br /><b>팀원 : 이희구</b></a><br /></td>
    <tr/>
 </tbody>
 </table>
 <br>
 <h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/404d4b3a-ac36-4533-823b-c6280df58817" height = 600px></h3>
-
 
 
 # 🔊 프로젝트 개요
@@ -69,10 +68,10 @@
 
 # QGIS를 이용한 데이터 매핑
 <h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/95141a8b-1b43-447d-9996-496f51b662ff"></h3>
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/c5ea5bdc-2dae-4e9a-82fa-05bd56ca6540" ></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/9066cdae-bda6-4507-a21b-c9d350491bb1" ></h3>
 
 
-![image](https://github.com/LHG-Git/project/assets/100845169/95141a8b-1b43-447d-9996-496f51b662ff)
+
 
 
 # 📊 EDA(탐색적 데이터 분석)
