@@ -17,10 +17,10 @@
 </tbody>
 </table>
 <br>
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/16d06607-f7f8-42e6-9d63-f23089f692a7" height = 600px></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/21e45d21-0fe9-41b3-a2cf-12dba2a2e98b" height = 600px></h3>
 
 
-
+.
 # 🔊 프로젝트 개요
 * 출퇴근 시간 지하철 내부의 혼잡률은 겉잡을 수 없이 심하기 때문에 압사사고, 안전사고 등이 쉽게 일어날 수 있다는 점을 고려<br>
 * 최근 이태원 참사 사건으로 인해 혼잡률, 밀집률에 대한 분석 필요성 증가<br>
