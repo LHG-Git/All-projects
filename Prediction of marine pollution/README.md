@@ -67,7 +67,14 @@
 <br><br>
 
 # QGIS를 이용한 데이터 매핑
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/975134d4-1675-4212-baba-3a9cb8ccc6ca"></h3>
+## 1) 관측소 및 갯끈풀 위치 시각화
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/975134d4-1675-4212-baba-3a9cb8ccc6ca"></h3> <br>
+
+## 2) 바다 격자 정보 세분화
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/ba90ffbf-2929-4e95-8125-999aaffb2da7"></h3> <br>
+
+## 3) 역거리 가중 보간법(IDW)을 이용한 최종 데이터셋 구성
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/8f13da25-2da7-40e4-93e7-aef89819b09e"></h3> <br>
 
 
 # 📊 EDA(탐색적 데이터 분석)
