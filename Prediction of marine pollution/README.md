@@ -68,16 +68,16 @@
 <br><br>
 
 # 📊 EDA(탐색적 데이터 분석)
-## 1) 승하차에 영향을 주는 요인들 확인
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/7237b671-8e84-467c-885a-f191acd9bc23"></h3>
+## 1) 상관관계 분석
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/453e7602-2cb5-418c-b0fd-cc7f7a954e2b"></h3>
 
-* 휴일이 겹칠수록 승하차 수 감소<br>
+* feature간의 상관관계가 높은 경우가 있어, 다중공선성이 우려<br>
 
-* 날씨(한파, 폭염)의 영향으로 승하차 수 감소<br>
+* 추후 상관계수가 높은 각 입력 변수를 제거/추가하며 회귀계수의 변동정도 파악, 차원축소 PCA 적용, 정규화, VIF(Variance Inflation     Factor)를 이용한 변수선택 등 다양한 방법론을 적용시킬 것을 고려<br>
 
-* 대학교 역 주변은 방학 시즌에 승하차 수가 눈에 띄게 감소<br>
+* 상관관계 분석 시각화를 통해 target값인 화학적 산소농도와 상관관계 값이 0.15미만에 해당하는 컬럼은 전부 삭제를 진행<br>
 
-* 강수량이 높아질수록 승하차 수 감소(예외적으로 매우 강한 비가 내릴때는 보통으로 내릴때보다 승하차 수가 많은 특이한 현상 발생)<br><br>
+
 
 ## 2) 역별 시간대별 승하차 인원 확인
 <h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/e42cb0ab-d86b-4162-b753-edfe17d877c7"></h3>
