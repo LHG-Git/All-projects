@@ -14,7 +14,7 @@
 </tbody>
 </table>
 <br>
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/dae87d57-6d24-4e34-bb11-12b8feb13a61" height = 600px></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/d33a55c0-6f38-4c33-ae64-e709403c0030" height = 600px></h3>
 
 
 # 🔊 프로젝트 개요
