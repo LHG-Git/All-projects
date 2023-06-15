@@ -127,12 +127,12 @@
 
 ## 5) LightGBM
 #### <strong>LightGBM 모델을 통한 승하차수 예측</strong>,<strong>평균 절대 오차값인 MAE값을 통한 모델 성능 검증</strong><br><br>
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/72574603-3891-4f2c-aaa0-8b01b0f33efe" width = 500px height = 300px></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/2346017d-3083-46b1-828b-ba5be613f923" width = 500px height = 300px></h3>
 
 #### (1차) : 파라미터 조정 및 k-fold 교차검증을 이용하지 않고, LightGBM 모델의 default값 그대로 초기 예측을 진행 
 
 * <strong>상업그룹의 MAE : 2600명, 업무주거그룹의 MAE값 : 2100명</strong><br><br>
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/20311900-9fde-4add-a951-e2e1bde5fb43" width = 500px height = 300px></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/8c5522d5-9b82-4be0-a05c-faaa40cb8710" width = 500px height = 300px></h3>
 
 #### (2차) : 하이퍼 파라미터 튜닝을 통해 최적의 파라미터 값을 지정 및 5차 k-fold를 이용하여 노이즈 값을 최소화한 후 예측을 진행
 
@@ -147,7 +147,7 @@
 
 # 💻 예측결과
 ### 1) 역별 예측 결과
-<h3 align="left"><img src="https://github.com/heegu0513/project/assets/100845169/d9dee8db-28bb-4b96-987a-58804a27577a" width = 1000px height = 400px></h3>
+<h3 align="left"><img src="https://github.com/LHG-Git/project/assets/100845169/369cd3a7-8618-42a7-ad4d-cf3150945743" width = 1000px height = 400px></h3>
 
 * 현재 9호선 역별 일평균 수요 승객은 2.7만명
 * 길동생태공원, 명일공원역은 비교적 원활
@@ -155,8 +155,8 @@
 * 고덕역은 다양한 인프라가 형성되어 있어 약 3.8만명으로 1일 승하차 평균을 크게 넘어 유동인구 혼잡 예상<br><br>
 
 ### 2) 혼잡률
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/5a96a96b-6bd2-4631-b13d-e9889ef4a96c" width = 500px height = 300px></h3>
-  
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/ba09e4e5-8643-4570-8c1a-4fe10b46bd82" width = 500px height = 300px></h3>
+
 * 고덕역 예측 수요 약 3.8만명
 * 고덕역 혼잡률 200% 이상  
 * 고덕역의 승하차 수요와 현재 환승역임을 감안하여 급행역으로 선정<br><br>
