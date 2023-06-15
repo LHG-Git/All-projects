@@ -153,7 +153,7 @@
 <br>
 
 ## 6) 모델평가 및 검증
-<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/a739550e-9070-4399-a743-2b134d1330a4></h3>
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/a2e542a1-b098-4202-adfa-4b3b28f77912></h3>
 
 * 하이퍼파라미터 튜닝 및 K-Fold교차검증을 통하여 모델 성능 최적화를 진행하여 과적합 개선
 * 그 결과 이전의 결과에서 보다 과적합이 많이 개선되었음을 확인하였고 모델의 성능 또한 향상됨
