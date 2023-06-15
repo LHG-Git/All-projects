@@ -153,7 +153,7 @@
 * 최종적으로 3가지 모델들 중, MAE값이 가장 낮아 성능이 가장 좋은 <strong>Prophet 모델을 선정</strong><br><br><br>
 
 # 🖥 예측 결과
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/9f70b495-7344-4589-8a16-851aa2241249"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/f919c86b-607e-4e3c-be68-5760bd2c5c99"></h3>
 
 * 대전, 충남, 세종지역의 2023년 음주운전 신고 건수 예측을 진행<br><br> 
 * 연도 별로 형성되었던 음주운전 신고건수의 추세성과 계절성이 2023년 예측결과에서도 잘 반영되어 예측된 것을 확인할 수 있음<br><br>
@@ -163,28 +163,28 @@
 
 # ✋ 음주단속구역을 해당 구역의 특성을 고려하여 3가지의 Case로 나누어 제안
 ## Case1) 번화가(골목길) → "암행순찰 제도 시행"
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/5a58372e-3a6b-4811-9d43-562fa0565d0d"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/d9f63cae-ff66-4eb0-8444-5cde6e0d383e"></h3>
 
 * 신고다발지역이 골목길과 같은 구조일 때, 암행순찰을 실시하면 골목길이라는 한계에 구애되지 않고 단속을 실시할 수 있음<br><br>
 * 따라서 높은 기동성을 장점으로 시간과 장소의 한계를 극복하는 <strong>암행 순찰 제도를 활성화 시켜야 함</strong><br><br>
 * 앞서 선정한 ‘둔산동 대덕대로 195번길’과 ‘둔산중로 40번길’에 2인 1조로 운영되는 암행 순찰팀이 수시로 음주운전 신고다발지역을 누빈다면 음주 운전이 의심되는 차량을 수시로 적발하여 음주운전 사고 예방 가능<br><br><br>
 
 ## Case2) 대로(大路) 및 주거지 → "암행순찰 제도 시행", "음주운전 집중 단속 구역으로 선정"
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/98d89dee-afec-4505-9b2f-1ad09f2f42ba"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/659c4cbd-a8ef-4486-981b-bee137f27250"></h3>
 
 * 충남 배방읍의 경우, <strong>‘구령리 배방역 사거리’ 부근</strong>에는 대로(大路)가 형성되어 있고 해당 구역에서 음주운전 신고가 매우 잦게 일어나 <strong>음주운전 집중 단속 구역으로 선정</strong><br><br>
 * 추가로, <strong>북수리 1520’ 부근</strong>에는 배방금호어울림아파트 단지와 주택 단지가 형성되어 있어 주거지역에 해당하면서 음주운전 신고가 빈번하게 일어나는 지역이기 때문에 이 지역 또한 <strong>음주운전 집중 단속 구역으로 선정</strong><br><br>
 * <strong>‘배방읍 사거리’</strong>는 적법절차를 위반하지 않기 때문에 일반 음주단속을 실시. <strong>‘북수리 1520’</strong>의 경우 주거지역에 해당하고 주변의 도로가 넓지 않은 점을 고려했을 때, <strong>암행 단속순찰을 시행하면 효과적일 것</strong><br><br><br>
 
 ## Case3) 고속도로 진입로(IC) → "음주운전 집중 단속 구역으로 선정"
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/bd66637f-759d-424e-b9ff-da5132e08652"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/cd12caac-13a1-4da2-a2eb-6ed938b8d4c2"></h3>
 
 * 세종시 금남면의 경우, <strong>‘두만리 남세종 IC’ 부근에서 음주운전 신고 비율이 가장 많은 것</strong>으로 나타남<br><br> 
 * 따라서 음주운전 신고 비율이 높은 <strong>‘두만리 남세종 IC’ 주변을 음주운전 집중단속 구역으로 선정</strong><br><br><br>
 
 # 🚩 추가 정책(아이디어) 제안
 ### 주류 판매점 음주측정 시범 운영
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/686736c3-bf05-495c-a5bf-615084e7ed4f"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/7e929742-a411-492a-8aeb-981ee36ade06"></h3>
 
 * 대전, 충남, 세종의 음주운전 신고다발 구간에 해당하는 지역 부근 식당을 대상으로 음주운전 신고가 활발히 일어나는 가을(10월~11월) 시즌에, 계산을 할 때 <strong>음주 측정을 시행하는 시범 운영을 실시</strong><br><br> 
 * 주류를 취급하는 술집이나 식당에 일괄적으로 음주측정기를 지급해서, 음식점을 나갈 때 한 번씩 불도록 하는 규칙<br><br> 
