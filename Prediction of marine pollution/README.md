@@ -99,6 +99,7 @@
 
 
 ## 2) 관측소별 화학적 산소농도 차이 시각화
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/bd886e2d-e5a1-4a7a-b1ec-13661f8a267e></h3>
 * 동해에 위치한 모든 관측치에서는 화학적 산소농도값이 정상범위(약 1.0)을 기록
 
 * 서해의 논산과 인천부근 그리고 남해의 부산과 창원부근의 관측치에서는 정상 수치보다 높은 화학적 산소 농도값이 기록된 것을 통해 화학적 산소농도 값이 위치적 특성에 따라 영향을 받는다는 것을 확인
@@ -106,15 +107,13 @@
 <br><br>
 # 📄 Modeling
 ## 1) 군집화
-<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/5d0812d6-3686-408a-805c-b6fc7e2e4ccd></h3>
-
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/fa2574f6-a8b8-418f-be42-6d010ce75528></h3>
 * 최적의 k값 도출을 위해 <strong>실루엣 계수</strong>를 사용<br> 
-* 이때 실루엣 계수 평균만을 고려하지 않았고 군집화를 통해 도출된 인사이트를 함께 고려<br>
+* 이때 실루엣 계수 평균만을 고려하지 않았고 figure6을 통해 도출된 인사이트를 함께 고려<br>
 * 그 결과 cluster별 실루엣 계수 평균이 가장 높지는 않지만, 실루엣 계수의 너비가 비교적 균일한 지점에서 최적의 k(k=6)값을 도출<br><br>
 
-#### EDA과정에서 업무지역과 주거지역은 출퇴근 시간에 유동인구가 밀집되어 있다는 근거를 통해, <strong>Group1과 Group2를 통합</strong><br>
-#### <strong>클러스터링 기법을 통해 최종적으로 Group0(상업 그룹)과 Group1(업무주거 그룹)으로 분류</strong><br><br><br>
-
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/3c91929c-c2b1-4531-a199-5ea753d1caf1></h3>
+* 최적의 K값을 통해 위치별 군집화 결과, figure 7에서 인천 부근의 서해에 위치한 관측치와, 부산 부근의 남해에 위치한 관측치에서 화학적 산소농도 수치가 높게 기록
 ## 2) ANOVA검정
 * EDA 및 분석을 통해 사용하고자 하는 변수가 승하차 인원 값에 미치는 영향이 <strong>통계적으로 유의한지 확인하기 위해 진행</strong><br><br><br>
 
