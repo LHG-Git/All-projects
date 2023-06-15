@@ -147,7 +147,7 @@
 * q : 2<br><br><br>
 
 ## 3) 모델 성능 비교
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/b64033ee-ac94-4da6-aa98-405f735f203e" width = 900px height = 400px></h3><br><br><br>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/4352a7f7-2267-48d9-9748-daa54dcc7f46" width = 900px height = 400px></h3><br><br><br>
 
 ## 4) 최종 모델 선정
 * 최종적으로 3가지 모델들 중, MAE값이 가장 낮아 성능이 가장 좋은 <strong>Prophet 모델을 선정</strong><br><br><br>
