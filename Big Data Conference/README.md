@@ -91,7 +91,7 @@
 * 강수량이 높아질수록 승하차 수 감소(예외적으로 매우 강한 비가 내릴때는 보통으로 내릴때보다 승하차 수가 많은 특이한 현상 발생)<br><br>
 
 ## 2) 역별 시간대별 승하차 인원 확인
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/e42cb0ab-d86b-4162-b753-edfe17d877c7"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/69085d34-2497-4e2f-acf4-0509a0435918"></h3>
 
 * 상업지역은 시간과 관계없이 골고루 유동인구가 분포합니다.
 
@@ -101,7 +101,7 @@
 <br><br>
 # 📄 Modeling
 ## 1) K-means clustering
-<h3 align="center"><img src= https://github.com/heegu0513/project/assets/100845169/043aa7d8-ad25-4438-98b0-e371eadcdc76></h3>
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/72117835-2fb5-451f-a343-3c49078b02ae></h3>
 
 * <strong>Group0</strong>은 시간과 관계없이 승하차 분포가 고르기 때문에 <strong>상업그룹</strong><br> 
 * <strong>Group1</strong>은 오전에는 승차에, 오후에는 하차에 분포가 되어 있기 때문에 <strong>주거그룹</strong><br>
@@ -127,7 +127,7 @@
 
 ## 5) LightGBM
 #### <strong>LightGBM 모델을 통한 승하차수 예측</strong>,<strong>평균 절대 오차값인 MAE값을 통한 모델 성능 검증</strong><br><br>
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/91536d1e-30f3-45e7-a484-fee82143c46d" width = 500px height = 300px></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/72574603-3891-4f2c-aaa0-8b01b0f33efe" width = 500px height = 300px></h3>
 
 #### (1차) : 파라미터 조정 및 k-fold 교차검증을 이용하지 않고, LightGBM 모델의 default값 그대로 초기 예측을 진행 
 
