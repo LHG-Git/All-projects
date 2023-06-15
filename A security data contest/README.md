@@ -17,7 +17,7 @@
 </tbody>
 </table>
 <br><br>
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/e034488b-4345-4672-82dd-d93cf1b4cbfb"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/d9bf906c-4957-4eb9-93f3-d4da2919cd67"></h3>
 
 # 🔊 프로젝트 개요
 ## 1) 충청권 음주운전 교통사고 심각
