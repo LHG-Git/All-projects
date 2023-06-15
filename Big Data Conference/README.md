@@ -80,7 +80,7 @@
 
 # 📊 EDA(탐색적 데이터 분석)
 ## 1) 승하차에 영향을 주는 요인들 확인
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/7237b671-8e84-467c-885a-f191acd9bc23"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/c5155f19-1c34-4d24-ad21-28bd7109dab6"></h3>
 
 * 휴일이 겹칠수록 승하차 수 감소<br>
 
