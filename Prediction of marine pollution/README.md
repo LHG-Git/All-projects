@@ -90,6 +90,8 @@
 
 # 📊 EDA(탐색적 데이터 분석)
 ## 1) 상관관계 분석
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/50d7a8ca-5108-47a8-bc77-2b9bfa07a601></h3>
+
 * feature간의 상관관계가 높은 경우가 있어, 다중공선성이 우려<br>
 
 * 추후 상관계수가 높은 각 입력 변수를 제거/추가하며 회귀계수의 변동정도 파악, 차원축소 PCA 적용, 정규화, VIF(Variance Inflation     Factor)를 이용한 변수선택 등 다양한 방법론을 적용시킬 것을 고려<br>
@@ -100,6 +102,7 @@
 
 ## 2) 관측소별 화학적 산소농도 차이 시각화
 <h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/bd886e2d-e5a1-4a7a-b1ec-13661f8a267e></h3>
+
 * 동해에 위치한 모든 관측치에서는 화학적 산소농도값이 정상범위(약 1.0)을 기록
 
 * 서해의 논산과 인천부근 그리고 남해의 부산과 창원부근의 관측치에서는 정상 수치보다 높은 화학적 산소 농도값이 기록된 것을 통해 화학적 산소농도 값이 위치적 특성에 따라 영향을 받는다는 것을 확인
@@ -108,30 +111,44 @@
 # 📄 Modeling
 ## 1) 군집화
 <h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/fa2574f6-a8b8-418f-be42-6d010ce75528></h3>
+
 * 최적의 k값 도출을 위해 <strong>실루엣 계수</strong>를 사용<br> 
-* 이때 실루엣 계수 평균만을 고려하지 않았고 figure6을 통해 도출된 인사이트를 함께 고려<br>
+* 이때 실루엣 계수 평균만을 고려하지 않았고 figure5을 통해 도출된 인사이트를 함께 고려<br>
 * 그 결과 cluster별 실루엣 계수 평균이 가장 높지는 않지만, 실루엣 계수의 너비가 비교적 균일한 지점에서 최적의 k(k=6)값을 도출<br><br>
 
 <h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/3c91929c-c2b1-4531-a199-5ea753d1caf1></h3>
-* 최적의 K값을 통해 위치별 군집화 결과, figure 7에서 인천 부근의 서해에 위치한 관측치와, 부산 부근의 남해에 위치한 관측치에서 화학적 산소농도 수치가 높게 기록
-## 2) ANOVA검정
-* EDA 및 분석을 통해 사용하고자 하는 변수가 승하차 인원 값에 미치는 영향이 <strong>통계적으로 유의한지 확인하기 위해 진행</strong><br><br><br>
+
+* 최적의 K값을 통해 위치별 군집화 결과, figure 5에서 인천 부근의 서해에 위치한 관측치와, 부산 부근의 남해에 위치한 관측치에서 화학적 산소농도 수치가 높게 기록
+
+## 2) 모델 성능 지표 선정
+* 성능 지표의 경우 본 프로젝트의 주제 자체가 ‘해양정보를 활용한 해양오염 예측’이기 때문에, 모델의 설명력을 나타내는 R2값 보다 실제     예측 오차의 크기인 MAE가 본 프로젝트와 맞는 지표라고 생각하여, <strong>MAE값을 기준으로 최종 모델을 선정</strong>
+
+## 3) 최종 모델 선정
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/b25945e4-eea7-461e-b2b7-7837cfe3ac39></h3>
+
+* 최종 예측결과 전체 모델에서 훈련세트에 약간의 과적합 존재<br>
+* CatBoost모델의 MAE값이 가장 준수
+* 해양오염 예측에 사용될 모델을 <strong>CatBoostRegressor로 선정</strong>
 
 
-## 3) 변수선정
-|변수선정|변수|
-|:------:|---|
-|공통변수|노선명, 버스정류장 개수, 노선수, 계절, 기온, 공원 개수, 요일, 휴일여부, 누적휴일, 1일우량, 량|
-|상업그룹 변수|산업, 숙박/음식, 레저/관광/예술, 영화관 개수, 백화점 개수|
-|업무주거그룹 변수|행정, 대학생 수, 학생 수(중,고등), 교육/보건, 중소기업 개수|<br><br>
+## 4) 하이퍼파라미터 튜닝
+* CatBoostRegressor모델의 특성상 하이퍼파라미터 튜닝을 진행하여도 모델 성능 개선에 크게 영향을 미치지 않음
+* 오히려 파라미터의 default값으로 모델 예측을 수행하였을 때, 성능이 가장 높게 측정됨
 
-## 4) Hold-Out 검정
-* <strong>Lidge, Lasso, RandomForest, Xgboost, DecisionTree, LightGBM</strong> 등 여러 회귀분석 모델들 중 모델 선정을 위한 <strong>Hold-Out 검정</strong>을 진행<br>
-* 그 결과, <strong>9호선 신설역 수요 예측에 LightGBM 모델이 가장 적합할 것이라 판단하여 진행</strong><br><br><br>
+## 5) K-Fold 교차검증
+* 최종 선정된 모델(CatBoostRegressor)의 경우 train과 text의 성능 지표에서 약간의 과적합이 발생
+* 과적합을 방지하기 위해 valid data를 생성
+* 해당 데이터셋을 이용하여     가장 흔하게 사용되는 K-Fold 교차검증을 진행
+* K값은 5로 지정하였으며, 모델 진행시에 골고루 데이터의 특성을 반영하기 위하여 shuffle을 진행
 
-## 5) LightGBM
-#### <strong>LightGBM 모델을 통한 승하차수 예측</strong>,<strong>평균 절대 오차값인 MAE값을 통한 모델 성능 검증</strong><br><br>
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/91536d1e-30f3-45e7-a484-fee82143c46d" width = 500px height = 300px></h3>
+## 6) 모델평가 및 검증
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/a739550e-9070-4399-a743-2b134d1330a4></h3>
+* 하이퍼파라미터 튜닝 및 K-Fold교차검증을 통하여 모델 성능 최적화를 진행하여 과적합 개선
+* 그 결과 이전의 결과에서 보다 과적합이 많이 개선되었음을 확인하였고 모델의 성능 또한 향상됨
+* 성능 지표의 경우 본 프로젝트의 주제가 ‘해양정보를 활용한 해양오염 예측’ 이기 때문에, 모델의 설명력을 나타내는 R2값 보다 실제 예측 오차의 크기인 MAE가 본 프로젝트와 맞는 지표라고 판단
+* 최종 모델링 결과 약 MAE = 0.076으로 실제값과 약 0.076이 차이가 나는 모델을 완성
+* 이는, 최근 10년동안 국내 연안의 화학적 산소농도가 연평균 1.13~1.82mg/L인 것을 고려했을 때, 꽤 정확도가 높은 모델이라고 설명할 수 있음
+
 
 #### (1차) : 파라미터 조정 및 k-fold 교차검증을 이용하지 않고, LightGBM 모델의 default값 그대로 초기 예측을 진행 
 
