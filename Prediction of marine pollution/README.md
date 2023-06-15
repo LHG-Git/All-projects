@@ -105,12 +105,12 @@
 
 <br><br>
 # 📄 Modeling
-## 1) K-means clustering
-<h3 align="center"><img src= https://github.com/heegu0513/project/assets/100845169/043aa7d8-ad25-4438-98b0-e371eadcdc76></h3>
+## 1) 군집화
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/5d0812d6-3686-408a-805c-b6fc7e2e4ccd></h3>
 
-* <strong>Group0</strong>은 시간과 관계없이 승하차 분포가 고르기 때문에 <strong>상업그룹</strong><br> 
-* <strong>Group1</strong>은 오전에는 승차에, 오후에는 하차에 분포가 되어 있기 때문에 <strong>주거그룹</strong><br>
-* <strong>Group2</strong>는 오전에는 하차에, 오후에는 승차에 분포가 되어 있기 때문에 <strong>업무그룹</strong><br><br>
+* 최적의 k값 도출을 위해 <strong>실루엣 계수</strong>를 사용<br> 
+* 이때 실루엣 계수 평균만을 고려하지 않았고 군집화를 통해 도출된 인사이트를 함께 고려<br>
+* 그 결과 cluster별 실루엣 계수 평균이 가장 높지는 않지만, 실루엣 계수의 너비가 비교적 균일한 지점에서 최적의 k(k=6)값을 도출<br><br>
 
 #### EDA과정에서 업무지역과 주거지역은 출퇴근 시간에 유동인구가 밀집되어 있다는 근거를 통해, <strong>Group1과 Group2를 통합</strong><br>
 #### <strong>클러스터링 기법을 통해 최종적으로 Group0(상업 그룹)과 Group1(업무주거 그룹)으로 분류</strong><br><br><br>
