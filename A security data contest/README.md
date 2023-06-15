@@ -94,12 +94,12 @@
 
 # 📊 EDA(탐색적 데이터 분석)
 ## 1) 시간의 흐름에 따른 음주운전 신고 건수
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/b9589caf-ae47-4ac2-83f2-72344399e492"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/9163e507-a280-4468-86a8-7e2f76e87124"></h3>
 
 * 음주운전 신고건수는 해가 거듭될수록 증가하는 추세를 보임<br><br>
 
 ## 2) 요일별, 시간대별, 누적휴일별, 계절별 음주운전 신고 건수
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/5a53f6da-f79a-4c66-835d-b2239fc7dd02"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/a9d4e95c-226b-4e16-8e5c-8a0ec5b8d887"></h3>
 
 * 금요일, 토요일, 일요일의 음주운전 신고 건수가 다른 요일들에 비해 높다는 것을 확인<br>
 * 새벽과 저녁 시간대에 음주운전 신고 건수가 대부분을 차지<br>
@@ -107,17 +107,17 @@
 * 가을, 여름, 봄, 겨울 순으로 음주운전 신고 건수가 많다는 것을 확인<br><br>
 
 ## 3) 대전광역시 동/면/읍 별 음주운전 신고 밀도
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/db649c5e-bfdf-447f-9bd9-3f34fd0e1b62"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/7758738f-24c3-464e-b0f5-c8a9baba2d09"></h3>
 
 * '둔산동'에서 1,319명으로 가장 많은 음주운전 신고수를 기록하고 '봉명동', '갈마동'이 그 뒤를 잇는다는 것을 확인<br><br><br>
 
 ## 4) 충청남도 동/면/읍/ 별 음주운전 신고 밀도
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/416f4c61-94de-4e4f-ae41-d023fb8eecfe"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/40c999aa-8004-46ec-ba39-776298cd6a63"></h3>
 
 * '배방읍'에서 1,253명으로 가장 많은 음주운전 신고수를 기록하고 '읍내동', '송악읍'이 그 뒤를 잇는다는 것을 확인<br><br><br>
 
 ## 5) 세종시 동/면/읍 별 읍주운전 신고 밀도
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/6f5c9f98-710e-4815-ba11-46aa97b8bd76"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/9ec2462a-12e2-46f8-bca8-887137334cdf"></h3>
 
 * '금남면'에서 362명으로 가장 많은 음주운전 신고수를 기록하고 '조치원읍', '장군명'이 그 뒤를 잇는다는 것을 확인<br><br><br>
 
