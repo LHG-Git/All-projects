@@ -112,7 +112,7 @@
 
 
 ## 2) 관측소별 화학적 산소농도 차이 시각화
-<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/897e3f03-2137-4e2f-bc5a-405c3946c941></h3>
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/b16cd70a-8f7e-4527-9e8d-2d286685670d></h3>
 
 * 동해에 위치한 모든 관측치에서는 화학적 산소농도값이 정상범위(약 1.0)을 기록
 
