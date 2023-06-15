@@ -122,13 +122,13 @@
 
 # 📄 Modeling
 ## 1) 군집화
-<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/57d48649-3efb-4288-97a1-d56509d00f69></h3>
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/e22674c7-b20e-4298-b8bc-b7b9f2f4583a></h3>
 
 * 최적의 k값 도출을 위해 <strong>실루엣 계수</strong>를 사용<br> 
 * 이때 실루엣 계수 평균만을 고려하지 않았고 figure5를 통해 도출된 인사이트를 함께 고려<br>
 * 그 결과 cluster별 실루엣 계수 평균이 가장 높지는 않지만, 실루엣 계수의 너비가 비교적 균일한 지점에서 <strong>최적의 k(k=6)값을 도출</strong><br><br>
 
-<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/adcbacc2-e778-4a94-a9db-5d26d283e908></h3>
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/909e7b1d-0b40-4745-abc5-f3652ef06a84></h3>
 
 * 최적의 K값을 통해 위치별 군집화 결과, figure 5에서 인천 부근의 서해에 위치한 관측치와, 부산 부근의 남해에 위치한 관측치에서 화학적 산소농도 수치가 높게 기록
 <br>
