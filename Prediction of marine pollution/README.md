@@ -69,21 +69,21 @@
 
 # 🔎 QGIS를 이용한 데이터 매핑
 ## 1) 관측소 및 갯끈풀 위치 시각화
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/975134d4-1675-4212-baba-3a9cb8ccc6ca"></h3> <br><br>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/3e1da9b8-d9ca-4ba1-9640-91a3269f9fed"></h3> <br><br>
 
 * 위의 그림과 같이, 비슷한 구역에 관측소가 붙어있는 것을 확인할 수 있음
 * 이런 경우 바다 격자 정보를 이용하여 해안 구역을 설정한 뒤, 한 격자에 들어오는 관측소는 하나의 관측소로 통합 시킬 것을 고려함
 <br>
 
 ## 2) 바다 격자 정보 세분화
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/ba90ffbf-2929-4e95-8125-999aaffb2da7"></h3> <br><br>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/0d3cb4ee-9998-49bf-93a5-9ef65ccec982"></h3> <br><br>
 
 * 한 격자내에 속해있는 관측소는 하나의 관측소로 간주하기 위한 작업
 * 수집한 격자정보의 경우 3단계 격자 정보에 해당하였고, 3단계의 정보를 이용하여 해안 구역을 선정할 경우 반경 범위가 상당히 광범위했기 때문에 구체적인 지역 선정이 어렵다고 판단하여, 더 세분화하기 위한 작업인 4단계 격자로 지역을 나누는 작업 진행
 <br>
 
 ## 3) 역거리 가중 보간법(IDW)을 이용한 최종 데이터셋 구성
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/8f13da25-2da7-40e4-93e7-aef89819b09e"></h3> <br><br>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/9a86e60b-87c0-4276-b0fa-ea90423a100f"></h3> <br><br>
 
 * 해양환경측정망, 해양생태계 데이터와 갯끈풀의 위치 속성을 QGIS에 표시
   
@@ -99,7 +99,7 @@
 
 # 📊 EDA(탐색적 데이터 분석)
 ## 1) 상관관계 분석
-<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/56344bc9-1943-42cf-b68b-e87514bde821></h3>
+<h3 align="center"><img src= "https://github.com/LHG-Git/project/assets/100845169/455f32d5-2172-4441-b1c4-04de9ea380bf"></h3>
 
 * feature간의 상관관계가 높은 경우가 있어, 다중공선성이 우려<br>
 
@@ -112,7 +112,7 @@
 
 
 ## 2) 관측소별 화학적 산소농도 차이 시각화
-<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/0c393e01-38b9-4475-bee7-d8f3b705cf0d></h3>
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/897e3f03-2137-4e2f-bc5a-405c3946c941></h3>
 
 * 동해에 위치한 모든 관측치에서는 화학적 산소농도값이 정상범위(약 1.0)을 기록
 
@@ -122,13 +122,13 @@
 
 # 📄 Modeling
 ## 1) 군집화
-<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/fa2574f6-a8b8-418f-be42-6d010ce75528></h3>
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/57d48649-3efb-4288-97a1-d56509d00f69></h3>
 
 * 최적의 k값 도출을 위해 <strong>실루엣 계수</strong>를 사용<br> 
 * 이때 실루엣 계수 평균만을 고려하지 않았고 figure5를 통해 도출된 인사이트를 함께 고려<br>
 * 그 결과 cluster별 실루엣 계수 평균이 가장 높지는 않지만, 실루엣 계수의 너비가 비교적 균일한 지점에서 <strong>최적의 k(k=6)값을 도출</strong><br><br>
 
-<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/3c91929c-c2b1-4531-a199-5ea753d1caf1></h3>
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/adcbacc2-e778-4a94-a9db-5d26d283e908></h3>
 
 * 최적의 K값을 통해 위치별 군집화 결과, figure 5에서 인천 부근의 서해에 위치한 관측치와, 부산 부근의 남해에 위치한 관측치에서 화학적 산소농도 수치가 높게 기록
 <br>
@@ -138,7 +138,7 @@
 <br>
 
 ## 3) 최종 모델 선정
-<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/b25945e4-eea7-461e-b2b7-7837cfe3ac39></h3>
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/da4b5525-0513-4615-a954-9778eadeda55></h3>
 
 * 최종 예측결과 전체 모델에서 훈련세트에 <strong>약간의 과적합 존재</strong><br>
 * <strong>CatBoost모델의 MAE값이 가장 준수</strong>
@@ -158,7 +158,7 @@
 <br>
 
 ## 6) 모델평가 및 검증
-<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/a2e542a1-b098-4202-adfa-4b3b28f77912></h3>
+<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/1f3ca8e2-9710-404d-9425-d9a9d3f64cdf></h3>
 
 * <strong>하이퍼파라미터 튜닝 및 K-Fold교차검증을 통하여 모델 성능 최적화를 진행하여 과적합 개선</strong>
 
