@@ -86,7 +86,7 @@
 
 # 📄 최적의 K값 찾기
 ## 1) Elbow Method
-<h3 align="center"><img src= "https://github.com/LHG-Git/project/assets/100845169/cc39a415-d8ab-44c3-a277-91d23673aa08"
+<h3 align="center"><img src= "https://github.com/LHG-Git/project/assets/100845169/f099937f-bccf-4700-a566-cd86d9613058"
 ></h3>
 
 * 'Elbow Method'를 통해 군집화를 하기 위한 최적의 K값 3을 도출
@@ -94,7 +94,7 @@
 <br><br>
 
 ## 2) K-means Clustering (전기차 대수와 급속 충전기)
-<h3 align="center"><img src= "https://github.com/LHG-Git/project/assets/100845169/f0720785-2fd2-4003-9f15-9903b139cea2"
+<h3 align="center"><img src= "https://github.com/LHG-Git/project/assets/100845169/158aa156-89a3-4abe-9dce-cc028a9c8efc"
 ></h3>
 
 * 상관관계가 가장 높았던 전기차 대수와 급속 충전기 개수를 군집화해준 결과, 그룹별 큰 특징을 찾지 못하여 직장인구 데이터를 군집화
@@ -102,7 +102,7 @@
 <br><br>
 
 ## 3) K-means Clustering (직장인구와 급속 충전기)
-<h3 align="center"><img src= "https://github.com/LHG-Git/project/assets/100845169/5a5c00ba-0b6e-4a02-bf73-ed05fcd99cb4"
+<h3 align="center"><img src= "https://github.com/LHG-Git/project/assets/100845169/e7ee2907-068d-4b34-a506-6b2a1cc746a0"
 ></h3>
 
 * 파란색 군집인 cluster0는 직장인구에 비해 급속 충전기의 개수가 적당한 군집
