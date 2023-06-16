@@ -87,7 +87,7 @@
 <br>
 
 # 📈 데이터 분석 과정
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/524b57c0-58bc-4d01-a76a-3571edcf2cc1"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/1b5e2cdd-074a-4960-8a32-93ebaae879e8"></h3>
 
 <br>
 
