@@ -135,11 +135,11 @@
 <br>
 
 # 🤝 핵심 파트너십
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/724fa416-ec64-404e-a732-34536352a9b6"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/34ad7195-0c1a-4c28-89f2-3325b81e9b25"></h3>
 <br>
 
 # 📢 마케팅
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/626a7348-f161-4ab6-8194-3cc3cadc03d4"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/6c1f54b2-24ae-4d6e-8287-17247c0f6a4a"></h3>
 
 
 
