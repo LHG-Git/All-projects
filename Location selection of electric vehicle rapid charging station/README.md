@@ -70,13 +70,13 @@
 
 # 📊 EDA(탐색적 데이터 분석)
 ## 1) 변수별 서울시 구별 밀집도 확인
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/1b96d360-d811-49f4-9e33-7539fed1b09e"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/704d8af1-2e4c-4968-81f1-7f1a801c2d31"></h3>
 
 * 급속 충전기, 직장인구, 지역인구의 밀집도가 지역별로 비슷한 양상을 띄고 있는 것을 확인
 <br><br>
 
 ## 2) 급속충천기, 전기차대수, 직장인구, 지역인구 상관관계
-<h3 align="center"><img src="https://github.com/heegu0513/project/assets/100845169/5ed9db20-091b-4809-b6a4-f9e670d141e1"></h3>
+<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/7864b4da-bcef-4d1c-8488-0edbb888b1f8"></h3>
 
 * 전기차 대수 변수가 가장 상관관계가 높은 것을 확인 
 * 직장인구와 지역인구의 상관관계가 비슷한 상황인 것을 확인
@@ -86,7 +86,7 @@
 
 # 📄 최적의 K값 찾기
 ## 1) Elbow Method
-<h3 align="center"><img src= "https://github.com/heegu0513/project/assets/100845169/b3f79d5d-0bca-4b0e-9d81-7b79c66000bf"
+<h3 align="center"><img src= "https://github.com/LHG-Git/project/assets/100845169/cc39a415-d8ab-44c3-a277-91d23673aa08"
 ></h3>
 
 * 'Elbow Method'를 통해 군집화를 하기 위한 최적의 K값 3을 도출
@@ -94,7 +94,7 @@
 <br><br>
 
 ## 2) K-means Clustering (전기차 대수와 급속 충전기)
-<h3 align="center"><img src= "https://github.com/heegu0513/project/assets/100845169/21fd5d6f-f8e5-4966-90e8-d3615afcbf6e"
+<h3 align="center"><img src= "https://github.com/LHG-Git/project/assets/100845169/f0720785-2fd2-4003-9f15-9903b139cea2"
 ></h3>
 
 * 상관관계가 가장 높았던 전기차 대수와 급속 충전기 개수를 군집화해준 결과, 그룹별 큰 특징을 찾지 못하여 직장인구 데이터를 군집화
@@ -102,7 +102,7 @@
 <br><br>
 
 ## 3) K-means Clustering (직장인구와 급속 충전기)
-<h3 align="center"><img src= "https://github.com/heegu0513/project/assets/100845169/7c2af714-e6d8-4587-b5d9-b6ecea78de90"
+<h3 align="center"><img src= "https://github.com/LHG-Git/project/assets/100845169/5a5c00ba-0b6e-4a02-bf73-ed05fcd99cb4"
 ></h3>
 
 * 파란색 군집인 cluster0는 직장인구에 비해 급속 충전기의 개수가 적당한 군집
@@ -118,7 +118,7 @@
 <br><br>
 
 ## 4) 빨간색 군집 cluster2 시각화
-<h3 align="center"><img src= "https://github.com/heegu0513/project/assets/100845169/4b7a206a-488c-49ab-afad-25125cd979da"
+<h3 align="center"><img src= "https://github.com/LHG-Git/project/assets/100845169/99d82ae9-b910-485f-ad10-38d35db29165"
 ></h3>
 
 * 왼쪽 시각화 자료는 빨간색 군집인 cluster2에 포함된 지역을 확인해 준 것
@@ -128,7 +128,7 @@
 <br>
 
 # 🖥 분석결과
-<h3 align="center"><img src= "https://github.com/heegu0513/project/assets/100845169/a413936b-b604-40c8-b698-60bc31e18b72"></h3>
+<h3 align="center"><img src= "https://github.com/LHG-Git/project/assets/100845169/007c1cf4-72f4-413e-9d59-95eb03d88e0d"></h3>
 
 * 비율이 가장 높은 곳이 급속 충전기가 부족한 지역인것을 확인
 * 급속 충전기 대비 직장인구가 많은 지역 중 비율이 가장 높은 지역 '관악구', '구로구', '은평구' 확인
