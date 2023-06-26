@@ -2,9 +2,12 @@
   <h1>📝 개인 프로젝트<br><br>
   🚢 해양정보를 활용한 해양오염 예측</h1>
 </div>
-<h3>💭 분석툴 : Google Colab, Pandas, Numpy, Matplotlib, QGIS, Sklearn, scipy<br><br>
-    📅 진행기간 : 2023.03.23 ~ 2023.06.07</h3>
 
+<h4> 💭 Language : Python <br><br>
+     📝 Library : Pandas, Numpy, Matplotlib, QGIS, Scikit-learn, scipy <br><br>
+     🛠  Tool : Google Colab <br><br>
+     📅 진행기간 : 2023.03.23 ~ 2023.06.07</h4>
+     
 ### 👨‍👦‍👦 팀원소개
 <table>
 <tbody>
